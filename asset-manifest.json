@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/greatest-hits/todo-app/static/css/main.cbfcf595.chunk.css",
-    "main.js": "/greatest-hits/todo-app/static/js/main.afe488ce.chunk.js",
-    "main.js.map": "/greatest-hits/todo-app/static/js/main.afe488ce.chunk.js.map",
-    "runtime~main.js": "/greatest-hits/todo-app/static/js/runtime~main.f1729128.js",
-    "runtime~main.js.map": "/greatest-hits/todo-app/static/js/runtime~main.f1729128.js.map",
-    "static/js/2.ea0cfade.chunk.js": "/greatest-hits/todo-app/static/js/2.ea0cfade.chunk.js",
-    "static/js/2.ea0cfade.chunk.js.map": "/greatest-hits/todo-app/static/js/2.ea0cfade.chunk.js.map",
-    "index.html": "/greatest-hits/todo-app/index.html",
-    "precache-manifest.72e2f8eb589a35394d44910584944f12.js": "/greatest-hits/todo-app/precache-manifest.72e2f8eb589a35394d44910584944f12.js",
-    "service-worker.js": "/greatest-hits/todo-app/service-worker.js",
-    "static/css/main.cbfcf595.chunk.css.map": "/greatest-hits/todo-app/static/css/main.cbfcf595.chunk.css.map",
-    "static/media/semantic.min.css": "/greatest-hits/todo-app/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/greatest-hits/static/css/main.1fc8ad7c.chunk.css",
+    "main.js": "/greatest-hits/static/js/main.afe488ce.chunk.js",
+    "main.js.map": "/greatest-hits/static/js/main.afe488ce.chunk.js.map",
+    "runtime~main.js": "/greatest-hits/static/js/runtime~main.81b7c314.js",
+    "runtime~main.js.map": "/greatest-hits/static/js/runtime~main.81b7c314.js.map",
+    "static/js/2.ea0cfade.chunk.js": "/greatest-hits/static/js/2.ea0cfade.chunk.js",
+    "static/js/2.ea0cfade.chunk.js.map": "/greatest-hits/static/js/2.ea0cfade.chunk.js.map",
+    "index.html": "/greatest-hits/index.html",
+    "precache-manifest.ad356789cb54c0522516260a44708fc0.js": "/greatest-hits/precache-manifest.ad356789cb54c0522516260a44708fc0.js",
+    "service-worker.js": "/greatest-hits/service-worker.js",
+    "static/css/main.1fc8ad7c.chunk.css.map": "/greatest-hits/static/css/main.1fc8ad7c.chunk.css.map",
+    "static/media/semantic.min.css": "/greatest-hits/static/media/outline-icons.ef60a4f6.woff"
   }
 }
