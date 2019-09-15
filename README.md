@@ -1,2 +1,0 @@
-# greatest-hits
-Sandbox applications
