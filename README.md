@@ -1,6 +1,6 @@
-# local-browser-storage-app
+# todo-app
 
-A TODO app in React
+A TODO demo app in React.js
 
 - Install dependencies
 
