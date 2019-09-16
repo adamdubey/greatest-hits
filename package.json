@@ -26,7 +26,7 @@
   },
   "author": "Adam Dubey",
   "license": "MIT",
-  "homepage": "https://adamdubey.github.io/greatest-hits/todo-app",
+  "homepage": "https://adamdubey.github.io/todo-app",
   "eslintConfig": {
     "extends": "react-app"
   },
