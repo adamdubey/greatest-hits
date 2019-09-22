@@ -32,10 +32,7 @@ export default class TaskList extends React.Component {
               <Table.Row>
                 <Table.Cell>Jack</Table.Cell>
                 <Table.Cell>Denied</Table.Cell>
-                <Table.Cell>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                </Table.Cell>
+                <Table.Cell>Lorem ipsum dolor</Table.Cell>
                 <Table.Cell textAlign="right">
                   <Button icon="checkmark" />
                   <Button icon="edit" color="blue" />
