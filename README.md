@@ -1,6 +1,6 @@
 # todo-app
 
-A TODO demo app in React.js
+A Todo demo app in React.js
 
 - Install dependencies
 
