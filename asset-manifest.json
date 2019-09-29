@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/todo-app/static/css/main.9b1431d8.chunk.css",
-    "main.js": "/todo-app/static/js/main.3ee2e649.chunk.js",
-    "main.js.map": "/todo-app/static/js/main.3ee2e649.chunk.js.map",
+    "main.js": "/todo-app/static/js/main.a69d1099.chunk.js",
+    "main.js.map": "/todo-app/static/js/main.a69d1099.chunk.js.map",
     "runtime-main.js": "/todo-app/static/js/runtime-main.c7cb45b0.js",
     "runtime-main.js.map": "/todo-app/static/js/runtime-main.c7cb45b0.js.map",
     "static/js/2.9a98eca0.chunk.js": "/todo-app/static/js/2.9a98eca0.chunk.js",
     "static/js/2.9a98eca0.chunk.js.map": "/todo-app/static/js/2.9a98eca0.chunk.js.map",
     "index.html": "/todo-app/index.html",
-    "precache-manifest.6a4585c268dcacc29aa21a137aca25de.js": "/todo-app/precache-manifest.6a4585c268dcacc29aa21a137aca25de.js",
+    "precache-manifest.0c4bf50d525635881d8cd48078200d7c.js": "/todo-app/precache-manifest.0c4bf50d525635881d8cd48078200d7c.js",
     "service-worker.js": "/todo-app/service-worker.js",
     "static/css/main.9b1431d8.chunk.css.map": "/todo-app/static/css/main.9b1431d8.chunk.css.map"
   }
