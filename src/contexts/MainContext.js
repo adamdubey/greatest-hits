@@ -14,7 +14,6 @@ export class MainProvider extends React.Component {
 
   handleMenuItemClick = (e, { name }) => {
     this.setState({ activeMenuItem: name });
-    // console.log("ActiveMenuItem is: " + name);
     switch (name) {
       case "loginButton":
         this.setState({ loginModal: true });
@@ -30,7 +29,6 @@ export class MainProvider extends React.Component {
 
   handleLoginClose = () => {
     this.setState({ loginModal: false });
-    // console.log("I'm the handleLoginClose");
   };
 
   handleSignUpClose = () => {
