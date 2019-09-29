@@ -77,8 +77,6 @@ export default class TaskList extends React.Component {
       </Container>
     );
 
-    // console.log(loggedIn);
-
     return (
       <React.Fragment>
         {loggedIn ? <TaskTable /> : <NotLoggedIn />}

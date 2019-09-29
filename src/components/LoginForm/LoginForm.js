@@ -12,15 +12,12 @@ export default class LoginForm extends React.Component {
   };
 
   handleChange = e => {
-    // console.log(e.target.name, e.target.value);
-
     this.setState({
       [e.target.name]: e.target.value
     });
   };
 
   handleSubmit = e => {
-    // console.log(userData);
     if (
       e.target.email.value === userData.email &&
       e.target.password.value === userData.password
@@ -47,7 +44,7 @@ export default class LoginForm extends React.Component {
         onClose={handleLoginClose}
         dimmer="blurring"
       >
-        <Modal.Header>Login to React Todo Application</Modal.Header>
+        <Modal.Header>Login to Todo Application</Modal.Header>
         <Modal.Content>
           <Form size="large" warning={warning} onSubmit={this.handleSubmit}>
             <Segment stacked>
