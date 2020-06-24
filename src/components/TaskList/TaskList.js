@@ -30,9 +30,19 @@ export default class TaskList extends React.Component {
 
             <Table.Body>
               <Table.Row>
-                <Table.Cell>Jack</Table.Cell>
+                <Table.Cell>Boris Grishenko</Table.Cell>
+                <Table.Cell>Approved</Table.Cell>
+                <Table.Cell>Buy a new server!</Table.Cell>
+                <Table.Cell textAlign="right">
+                  <Button icon="checkmark" />
+                  <Button icon="edit" color="blue" />
+                  <Button icon="trash" color="red" />
+                </Table.Cell>
+              </Table.Row>
+              <Table.Row>
+                <Table.Cell>SF BART</Table.Cell>
                 <Table.Cell>Denied</Table.Cell>
-                <Table.Cell>Lorem ipsum dolor</Table.Cell>
+                <Table.Cell>Don't be late - catch the 7:30 AM SFO Train!</Table.Cell>
                 <Table.Cell textAlign="right">
                   <Button icon="checkmark" />
                   <Button icon="edit" color="blue" />
@@ -40,19 +50,9 @@ export default class TaskList extends React.Component {
                 </Table.Cell>
               </Table.Row>
               <Table.Row>
-                <Table.Cell>Bart</Table.Cell>
+                <Table.Cell>Natalya Simonova</Table.Cell>
                 <Table.Cell>Approved</Table.Cell>
-                <Table.Cell>Catch the 7:30 AM SFO Train</Table.Cell>
-                <Table.Cell textAlign="right">
-                  <Button icon="checkmark" />
-                  <Button icon="edit" color="blue" />
-                  <Button icon="trash" color="red" />
-                </Table.Cell>
-              </Table.Row>
-              <Table.Row>
-                <Table.Cell>Jill</Table.Cell>
-                <Table.Cell>Approved</Table.Cell>
-                <Table.Cell>Build new pc workstation</Table.Cell>
+                <Table.Cell>Steal the GoldenEye disk.</Table.Cell>
                 <Table.Cell textAlign="right">
                   <Button icon="checkmark" />
                   <Button icon="edit" color="blue" />
