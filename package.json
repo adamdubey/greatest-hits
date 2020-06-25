@@ -1,14 +1,18 @@
 {
   "name": "todo-app",
   "version": "0.7.0",
-  "description": "",
+  "description": "react.js todo web-app.",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@emotion/core": "^10.0.28",
     "gh-pages": "*",
     "react": "*",
     "react-dom": "*",
+    "react-github-corner": "*",
+    "react-redux": "*",
     "react-scripts": "*",
+    "redux": "*",
     "semantic-ui-react": "*",
     "styled-components": "*"
   },
